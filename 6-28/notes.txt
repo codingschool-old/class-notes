@@ -1,0 +1,6 @@
+binary search algorithm
+command and conquer algorithm
+
+objects
+hashmaps
+data structures
