@@ -1,0 +1,4 @@
+Homework:
+
+1. Write a function to reverse a linked list
+2. Research and write a function to implement a bubble sort
