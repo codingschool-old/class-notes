@@ -1,0 +1,12 @@
+Homework:
+
+Create a calculator application that has buttons for numbers 0-9 and + - * and /
+
+It should also have an equal and clear key and should display the result inside a div or span
+
+
+
+
+Reading:
+
+Start from here http://eloquentjavascript.net/12_browser.html
