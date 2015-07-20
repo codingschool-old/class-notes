@@ -2,7 +2,7 @@ Homework:
 
 Create a calculator application that has buttons for numbers 0-9 and + - * and /
 
-It should also have an equal and clear key and should display the result inside a div or span
+It should also have an equal and clear buttons and should display the result inside a div or span
 
 
 
